@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Projetos e exercícios da licenciatura
+## Projetos durante a licenciatura
 Laboratatórios de Algoritmia I | [Projeto](https://github.com/RisingFisan/Programacao-Funcional)
 
 Sistemas de Comunicações e Redes | [Projeto](https://github.com/RisingFisan/Tanks-LI1)
