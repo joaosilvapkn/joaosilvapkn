@@ -20,3 +20,25 @@ Computação Gráfica | [Projeto](https://github.com/joaosilvapkn/CG-PROJETO)
 Programação Concorrente | [Projeto](https://github.com/joaosilvapkn/PC-PROJETO)
 
 Projeto | [Projeto](https://github.com/joaosilvapkn/Projeto)
+
+
+## Linguagens e ferramentas utilizadas
+- Haskell
+
+- Python
+
+- C
+
+- C++
+
+- Java
+
+- Erlang
+
+- Javascript
+
+- MySQL
+
+- MatLab
+
+- R
