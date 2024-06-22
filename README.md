@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-## Projetos durante a licenciatura
+## Projetos e exercícios realizados durante a licenciatura
+Programação Funcional | [Exercícios](https://github.com/joaosilvapkn/PF-50Questoes)
+
 Laboratatórios de Algoritmia I | [Projeto](https://github.com/joaosilvapkn/LA1-Projeto)
 
 Sistemas de Comunicações e Redes | [Projeto](https://github.com/joaosilvapkn/SCR-Projeto)
