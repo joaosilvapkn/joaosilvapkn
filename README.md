@@ -25,7 +25,7 @@ Programação Concorrente | [Projeto](https://github.com/joaosilvapkn/PC-PROJETO
 
 Projeto | [Projeto](https://github.com/joaosilvapkn/Projeto)
 
-## Projetos e exercícios realizados durante a licenciatura
+## Projetos e exercícios realizados durante o mestrado
 
 ## Linguagens e ferramentas utilizadas
 - Haskell
@@ -39,6 +39,10 @@ Projeto | [Projeto](https://github.com/joaosilvapkn/Projeto)
 - Java
 
 - Erlang
+
+- Ocaml
+
+- WhyML
 
 - Javascript
 
