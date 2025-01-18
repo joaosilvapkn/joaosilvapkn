@@ -29,7 +29,6 @@ Projeto | [Projeto](https://github.com/joaosilvapkn/Projeto)
 
 ## Linguagens e ferramentas utilizadas
 - Haskell
-
 - C
 
 - Python
