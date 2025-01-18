@@ -26,6 +26,11 @@ Programação Concorrente | [Projeto](https://github.com/joaosilvapkn/PC-PROJETO
 Projeto | [Projeto](https://github.com/joaosilvapkn/Projeto)
 
 ## Projetos e exercícios realizados durante o mestrado
+Computaçãp Paralela |
+ 
+Métodos Formais em Engenharia de Software |
+
+Lógica da Programação |
 
 ## Linguagens e ferramentas utilizadas
 - Haskell
