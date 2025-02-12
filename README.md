@@ -26,7 +26,7 @@ Programação Concorrente | [Projeto](https://github.com/joaosilvapkn/PC-PROJETO
 Projeto | [Projeto](https://github.com/joaosilvapkn/Projeto)
 
 ## Projetos e exercícios realizados durante o mestrado
-Computaçãp Paralela |
+Computação Paralela | [Projeto](https://github.com/joaosilvapkn/CP-Projeto)
  
 Métodos Formais em Engenharia de Software |
 
