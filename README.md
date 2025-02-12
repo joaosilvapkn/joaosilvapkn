@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Projetos e exercícios realizados durante a licenciatura
-Programação Funcional | [Exercícios](https://github.com/joaosilvapkn/PF-50Questoes)
+Programação Funcional | [50 Questões](https://github.com/joaosilvapkn/PF-50Questoes)
 
 Laboratórios de Algoritmia I | [Projeto](https://github.com/joaosilvapkn/LA1-Projeto)
 
@@ -28,7 +28,7 @@ Projeto | [Projeto](https://github.com/joaosilvapkn/Projeto)
 ## Projetos e exercícios realizados durante o mestrado
 Computação Paralela | [Projeto](https://github.com/joaosilvapkn/CP-Projeto)
  
-Métodos Formais em Engenharia de Software |
+Métodos Formais em Engenharia de Software | [Exercícios](https://github.com/joaosilvapkn/MFES-Exercicios)
 
 Lógica da Programação |
 
