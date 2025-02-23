@@ -30,7 +30,7 @@ Computação Paralela | [Projeto](https://github.com/joaosilvapkn/CP-Projeto)
  
 Métodos Formais em Engenharia de Software | [Exercícios](https://github.com/joaosilvapkn/MFES-Exercicios)
 
-Lógica da Programação |
+Lógica da Programação | [Resumos de lógica e cálculo-lambda](https://github.com/joaosilvapkn/LG-Resumos)
 
 ## Linguagens e ferramentas utilizadas
 - Haskell
