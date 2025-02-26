@@ -32,7 +32,7 @@ Métodos Formais em Engenharia de Software | [Exercícios](https://github.com/jo
 
 Métodos Formais em Engenharia de Software | [Projeto](https://github.com/joaosilvapkn/MFES-Projeto)
 
-Lógica da Programação | [Resumos de lógica e cálculo-lambda](https://github.com/joaosilvapkn/LG-Resumos)
+Lógica da Programação | [Apontamentos](https://github.com/joaosilvapkn/LG-Resumos)
 
 ## Linguagens e ferramentas utilizadas
 - Haskell
