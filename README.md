@@ -36,7 +36,7 @@ Lógica da Programação | [Apontamentos](https://github.com/joaosilvapkn/LG-Res
 
 ## Linguagens e ferramentas utilizadas
 - Haskell
-- 
+ 
 - C
 
 - Python
