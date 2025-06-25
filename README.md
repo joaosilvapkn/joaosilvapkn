@@ -34,6 +34,8 @@ Métodos Formais em Engenharia de Software | [Projeto](https://github.com/joaosi
 
 Lógica da Programação | [Apontamentos](https://github.com/joaosilvapkn/LG-Resumos)
 
+Cálculo de Sistemas de Informação | [Projeto]
+
 ## Linguagens e ferramentas utilizadas
 - Haskell
  
