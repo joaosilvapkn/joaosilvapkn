@@ -38,6 +38,8 @@ Cálculo de Sistemas de Informação | [Projeto](https://github.com/joaosilvapkn
 
 Programação Ciber-Física | [Exercícios](https://github.com/joaosilvapkn/PCF-Exercicios)
 
+Projeto Integrado em Matemática e Computação | [Projeto](https://github.com/joaosilvapkn/MMC-Projeto)
+
 ## Linguagens e ferramentas utilizadas
 - Haskell
  
