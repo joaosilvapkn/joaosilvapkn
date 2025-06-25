@@ -36,6 +36,8 @@ Lógica da Programação | [Apontamentos](https://github.com/joaosilvapkn/LG-Res
 
 Cálculo de Sistemas de Informação | [Projeto](https://github.com/joaosilvapkn/CSI-Projeto)
 
+Programação Ciber-Física | [Exercícios](https://github.com/joaosilvapkn/PCF-Exercicios)
+
 ## Linguagens e ferramentas utilizadas
 - Haskell
  
