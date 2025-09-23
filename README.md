@@ -59,6 +59,8 @@ Projeto Integrado em Matemática e Computação | [Projeto](https://github.com/j
 
 - WhyML
 
+- Coq
+
 - Javascript
 
 - MySQL
