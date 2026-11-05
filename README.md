@@ -69,6 +69,6 @@ Projeto Integrado em Matemática e Computação | [Projeto](https://github.com/j
 - MySQL
 
 - MatLab
--->
-- R
 
+- R
+-->
